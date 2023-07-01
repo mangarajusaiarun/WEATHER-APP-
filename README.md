@@ -6,3 +6,4 @@ JavaScript</br>
 **Used APIs**
 Open Weather API</br>
 Unsplash API
+![weather2 ](https://github.com/mangarajusaiarun/WEATHER-APP-/assets/138275166/b6f054ff-5537-43c3-bdc4-1f48011e3fb6)
